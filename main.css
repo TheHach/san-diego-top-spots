@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+table {
+    word-wrap: normal;
+    text-align: center;
+    width: 100%;
+    height: 250px;
+}
+
+th {
+    background-color: grey;
+}
+
+tr {
+    background-color: lightblue;
+}
